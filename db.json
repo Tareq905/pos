@@ -1,0 +1,40 @@
+{
+    "products": [
+        {
+        "id" : 123,
+        "name": "car",
+        "price": 1000,
+        "image": "https://cdn.pixabay.com/photo/2015/07/11/23/13/mercedes-benz-841465_1280.jpg"
+        },
+        {
+            "id" : 131,
+            "name": "Motor Bike",
+            "price": 500,
+            "image": "https://cdn.pixabay.com/photo/2017/02/18/18/43/motorcycle-2077914_1280.jpg"
+        },
+        {
+            "id" : 132,
+            "name": "Cycle",
+            "price": 100,
+            "image": "https://cdn.pixabay.com/photo/2014/09/07/21/59/bicycle-438400_1280.jpg"
+        },
+        {
+            "id" : 133,
+            "name": "Moble Phone",
+            "price": 50,
+            "image": "https://cdn.pixabay.com/photo/2016/11/29/05/08/apple-1867461_1280.jpg"
+        },
+        {
+            "id" : 134,
+            "name": "Laptop",
+            "price": 80,
+            "image": "https://cdn.pixabay.com/photo/2018/10/02/09/52/hp-hq-tre-core-i5-laptop-3718328_1280.jpg"
+        },
+        {
+            "id" : 135,
+            "name": "Gamepad",
+            "price": 25,
+            "image": "https://cdn.pixabay.com/photo/2023/01/12/16/05/controller-7714412_1280.jpg"
+        }
+    ]
+}
