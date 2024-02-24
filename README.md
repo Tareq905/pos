@@ -9,7 +9,7 @@ the project will not work parfectly.</h3>
 <h3>Now the server is ready and you can focus on your project.</h3>
 <br />
 <br />
-<h3>React 18, you have to use vite to install it, but you also use $ npx create-react-app. No issues!</h3>
+<h3> In React 18, you have to use vite to install it, but you also use $ npx create-react-app. No issues!</h3>
 <h3> Now you have to install: </h3>
 <h3> $ npm i react-router-dom </h3>
 <h3> $ npm i axios </h3>
